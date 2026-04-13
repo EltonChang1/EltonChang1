@@ -1,6 +1,9 @@
-## Hi there 👋
+## I build stuff, break stuff, and occasionally make the stuff work better.
 
-Computer science and statistics student passionate about building thoughtful, data-driven software. My interests span machine learning, full-stack development, backend systems, and applied analytics, with a focus on turning technical ideas into practical tools.
+I make things with code and then pretend it was organized from the start.
+
+Into machine learning, full-stack development, data, and systems.  
+This GitHub is part projects, part experiments, part me figuring things out in public.
 
 Come to my personal website to know more about me!!
 
